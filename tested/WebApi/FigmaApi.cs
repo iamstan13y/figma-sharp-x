@@ -31,7 +31,7 @@ using Newtonsoft.Json;
 using System.Net.Http;
 using System.Threading.Tasks;
 
-namespace FigmaSharp
+namespace FigmaSharpX
 {
 	public class FigmaApi
 	{

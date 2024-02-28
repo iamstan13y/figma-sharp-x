@@ -29,7 +29,7 @@ using FigmaSharpX.Models;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace FigmaSharp
+namespace FigmaSharpX
 {
     public class FigmaResponseConverter : JsonConverter
     {

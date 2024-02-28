@@ -24,7 +24,7 @@
 
 using System.Collections.Generic;
 
-namespace FigmaSharp
+namespace FigmaSharpX
 {
     public interface IImageNodeRequest
     {
