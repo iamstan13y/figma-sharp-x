@@ -31,6 +31,7 @@ using FigmaSharpX.Models;
 using FigmaSharpX.PropertyConfigure;
 using FigmaSharpX.Services;
 using FigmaSharpX.Views;
+using IView = FigmaSharpX.Views.IView;
 
 namespace FigmaSharp
 {
