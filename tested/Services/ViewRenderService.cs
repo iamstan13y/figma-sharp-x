@@ -26,11 +26,13 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-
+using FigmaSharp;
 using FigmaSharpX.Converters;
 using FigmaSharpX.Models;
 using FigmaSharpX.PropertyConfigure;
 using FigmaSharpX.Views;
+using IView = FigmaSharpX.Views.IView;
+using IWindow = FigmaSharpX.Views.IWindow;
 
 namespace FigmaSharpX.Services
 {

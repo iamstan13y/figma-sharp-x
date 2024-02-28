@@ -23,10 +23,12 @@
 // USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 using System.Linq;
-
+using FigmaSharp;
 using FigmaSharpX.Models;
 using FigmaSharpX.PropertyConfigure;
 using FigmaSharpX.Views;
+using IScrollView = FigmaSharpX.Views.IScrollView;
+using IView = FigmaSharpX.Views.IView;
 
 namespace FigmaSharpX.Services
 {

@@ -24,6 +24,7 @@
 
 using FigmaSharpX.Models;
 using FigmaSharpX.Views;
+using IView = FigmaSharpX.Views.IView;
 
 namespace FigmaSharpX.Services
 {
