@@ -136,7 +136,7 @@ namespace FigmaSharpX.Converters
 
         public virtual bool CanCodeConvert(FigmaNode currentNode) => CanConvert(currentNode);
 
-        public abstract IView ConvertToView (FigmaNode currentNode, ViewNode parent, ViewRenderService rendererService);
+        public abstract Views.IView ConvertToView (FigmaNode currentNode, ViewNode parent, ViewRenderService rendererService);
 
         public abstract string ConvertToCode (CodeNode currentNode, CodeNode parentNode, ICodeRenderService rendererService);
     }
