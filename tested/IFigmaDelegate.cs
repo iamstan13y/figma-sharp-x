@@ -28,6 +28,8 @@ using System.Reflection;
 using FigmaSharpX.Converters;
 using FigmaSharpX.PropertyConfigure;
 using FigmaSharpX.Views;
+using IImage = FigmaSharpX.Views.IImage;
+using IView = FigmaSharpX.Views.IView;
 
 namespace FigmaSharpX
 {
