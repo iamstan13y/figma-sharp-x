@@ -5,6 +5,12 @@ VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigmaSharpX", "tested\FigmaSharpX.csproj", "{ED2B57D1-94B4-4970-B5BC-369B5473C8A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigmaSharpX.Maui.Graphics", "FigmaSharpX.Maui.Graphics\FigmaSharpX.Maui.Graphics.csproj", "{068C330A-3713-4D92-ACA0-C85BE395FCC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigmaSharpX.Maui.Graphics.Sample", "FigmaSharpX.Maui.Graphics.Sample\FigmaSharpX.Maui.Graphics.Sample.csproj", "{A2C3C08D-4287-41D2-AD08-A4B0BE685151}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigmaSharpX.Views", "FigmaSharpX.Views\FigmaSharpX.Views.csproj", "{3976A04E-5849-45A7-BC22-84ED13A54AF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +23,24 @@ Global
 		{ED2B57D1-94B4-4970-B5BC-369B5473C8A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED2B57D1-94B4-4970-B5BC-369B5473C8A8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{ED2B57D1-94B4-4970-B5BC-369B5473C8A8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{068C330A-3713-4D92-ACA0-C85BE395FCC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{068C330A-3713-4D92-ACA0-C85BE395FCC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{068C330A-3713-4D92-ACA0-C85BE395FCC0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{068C330A-3713-4D92-ACA0-C85BE395FCC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{068C330A-3713-4D92-ACA0-C85BE395FCC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{068C330A-3713-4D92-ACA0-C85BE395FCC0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A2C3C08D-4287-41D2-AD08-A4B0BE685151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2C3C08D-4287-41D2-AD08-A4B0BE685151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2C3C08D-4287-41D2-AD08-A4B0BE685151}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A2C3C08D-4287-41D2-AD08-A4B0BE685151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2C3C08D-4287-41D2-AD08-A4B0BE685151}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2C3C08D-4287-41D2-AD08-A4B0BE685151}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3976A04E-5849-45A7-BC22-84ED13A54AF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3976A04E-5849-45A7-BC22-84ED13A54AF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3976A04E-5849-45A7-BC22-84ED13A54AF5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3976A04E-5849-45A7-BC22-84ED13A54AF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3976A04E-5849-45A7-BC22-84ED13A54AF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3976A04E-5849-45A7-BC22-84ED13A54AF5}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
